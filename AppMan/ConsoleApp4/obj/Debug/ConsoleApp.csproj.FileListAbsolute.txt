@@ -1,0 +1,7 @@
+c:\users\nitip\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+c:\users\nitip\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+c:\users\nitip\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+c:\users\nitip\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\nitip\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+c:\users\nitip\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+c:\users\nitip\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
